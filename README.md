@@ -22,6 +22,7 @@ python3 setup_annotation_classes.py
 The script will create two directories within the directory where the images are stored:
 1. `json_files`
 2. `segmentations`
+
 The prior contains a JSON file with information about the segmentations of the images and will be used to track changes. The latter will contain all the segmented B&W masks of the images.
 
 The script will request the location where you want to put the created scripts. Photoshop monitors the `Presets/Scripts` directory to automatically retrieve scripts for their use within Photoshop, e.g.  `C:\Program Files\Adobe\Adobe Photoshop CC 2018\Presets\Scripts`. Select this path or its equivalent for your operating system and / or Photoshop version.
