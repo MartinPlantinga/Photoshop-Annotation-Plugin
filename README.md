@@ -30,8 +30,8 @@ Once the script has finished, you can find the created scripts within Photoshop 
 1. start
 2. save
 3. get_<class_name_1>
-4. get_<class_name_2> \n
-    ...
+4. get_<class_name_2> <br>
+      ...
 
 where the `<class_name_n>` in `get_<class_name_n>` refers to each of the classes you set up when invoking the `setup_annotation_classes.py` script.
 
