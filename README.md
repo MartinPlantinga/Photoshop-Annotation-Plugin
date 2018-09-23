@@ -11,6 +11,7 @@ The `setup_annotation_classes.py` script works with Python3.7 and both Windows a
 5. tkinter
 6. re
 7. shutil
+
 These can be installed with `pip3`.
 
 ## Setup
