@@ -22,7 +22,6 @@ except ImportError:
     import tkinter.messagebox as tkMessageBox
 
 import re
-import ipdb
 from shutil import copyfile
 
 import ctypes
