@@ -41,12 +41,11 @@ Once the plugin has been set up, as described above, you can start to use the pl
 
 The following table describes how to use each of the scripts.
 
-|---|---|
-|Script | Description |
+  |Script | Description |
 |---|---|
 |Loading a new image| Run the `start` script to load an image from the directory of images you selected in the Setup step.|
 |Discarding an image | Run the `start` script again if you want to discard an image from being annotated. Note that the image has to be open within Photoshop to be able to discard the image. |
-|Segmenting a part of the image | Select the part that you want to assign to one of the classes with one of the selection tools (e.g. Marqee tool, Lasso tool, or Quick Selection tool). Once you have selected all the pixels you want to assign to (an instance of) a class, invoke the script that corresponds to the desired class. You can then continue to another segmentation, saving all segmentations or discarding the image. To undo changes, use the `History` window (`Window > History`)
+|Segmenting a part of the image | Select the part that you want to assign to one of the classes with one of the selection tools (e.g. Marqee tool, Lasso tool, or Quick Selection tool). Once you have selected all the pixels you want to assign to (an instance of) a class, invoke the script that corresponds to the desired class. You can then continue to another segmentation, saving all segmentations or discarding the image. To undo changes, use the `History` window (`Window > History`)|
 |Saving the segmentation(s)| Once you have finished with segmenting an image, you can save the segmentations by invoking the `save` script.|
 
 ### Tips
