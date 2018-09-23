@@ -41,7 +41,7 @@ Once the plugin has been set up, as described above, you can start to use the pl
 
 The following table describes how to use each of the scripts.
 
-  |Script | Description |
+|Action | Description |
 |---|---|
 |Loading a new image| Run the `start` script to load an image from the directory of images you selected in the Setup step.|
 |Discarding an image | Run the `start` script again if you want to discard an image from being annotated. Note that the image has to be open within Photoshop to be able to discard the image. |
