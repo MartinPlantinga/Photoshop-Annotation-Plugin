@@ -14,7 +14,7 @@ The `setup_annotation_classes.py` script works with Python3.7 and both Windows a
 These can be installed with `pip3`.
 
 ## Setup
-Run the setup script to setup the classes, create a Json file and create the JavaScript scripts for Photoshop:
+Run the setup script to define the classes, create a Json file with information about the images and create the JavaScript scripts for Photoshop:
 ```bash
 python3 setup_annotation_classes.py
 ```
